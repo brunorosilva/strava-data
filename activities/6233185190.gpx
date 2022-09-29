@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="StravaGPX Android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata>
+  <time>2021-11-09T11:49:06Z</time>
+ </metadata>
+ <trk>
+  <name>Corrida matinal</name>
+  <type>9</type>
+  <trkseg>
+   <trkpt lat="-23.5842250" lon="-46.6279060">
+    <ele>791.9</ele>
+    <time>2021-11-09T11:49:06Z</time>
+   </trkpt>
+   <trkpt lat="-23.5841970" lon="-46.6279410">
+    <ele>791.7</ele>
+    <time>2021-11-09T11:49:08Z</time>
+   </trkpt>
+  </trkseg>
+ </trk>
+</gpx>
